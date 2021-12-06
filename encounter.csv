@@ -1,0 +1,75 @@
+
+ Encounter:
+ Physician: 
+ ID: 9383984429
+ Name: Hollie Sosa
+ Specialty: Specialist Radiologist
+
+ Patient: 
+ Emirates ID: 279428910
+ Name: Lillie Sharma
+ Gender: Female
+ Phone Number: 971587609273
+ Date: 6-3-2021
+ Disease: Alzheimer
+ Medication: Donepezil 
+
+ Encounter:
+ Physician: 
+ ID: 9259624392
+ Name: Shayna Hopper
+ Specialty: Consultant of Anesthesia and ICU
+
+ Patient: 
+ Emirates ID: 264180135
+ Name: Saarah Mackie
+ Gender: Female
+ Phone Number: 971521209582
+ Date: 6-7-2017
+ Disease: pre-surgery weight management
+ Medication: Concentrated Diet
+
+ Encounter:
+ Physician: 
+ ID: 9381603630
+ Name: Kinga Edge
+ Specialty: Consultant General Surgery
+
+ Patient: 
+ Emirates ID: 238741732
+ Name: Mina Ramez
+ Gender: Male
+ Phone Number: 971564720482
+ Date: 2-9-2021
+ Disease: Abdominal Surgery
+ Medication: Analgesic
+
+ Encounter:
+ Physician: 
+ ID: 9259624392
+ Name: Shayna Hopper
+ Specialty: Consultant of Anesthesia and ICU
+
+ Patient: 
+ Emirates ID: 270005063
+ Name: Helen Sparrow
+ Gender: Female
+ Phone Number: 971561230952
+ Date: 10-10-2019
+ Disease: Surgery Prep
+ Medication: Anesthesia
+
+ Encounter:
+ Physician: 
+ ID: 9383984429
+ Name: Hollie Sosa
+ Specialty: Specialist Radiologist
+
+ Patient: 
+ Emirates ID: 299199800
+ Name: Anam Hogg
+ Gender: Male
+ Phone Number: 971585523952
+ Date: 1-5-2014
+ Disease: Brain Tumor
+ Medication: temozolomide
